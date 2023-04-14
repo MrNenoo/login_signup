@@ -523,6 +523,12 @@
   border-radius: 4px;
   -webkit-appearance: none;
 }
+.input-area .head {
+  color: #000000;
+  font-size: 16px;
+  text-align: left;
+  font-weight: bold;
+}
 .button {
   border-radius: 4px;
   cursor: pointer;
